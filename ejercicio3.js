@@ -1,4 +1,4 @@
-/* Dada una palabra, buscarla en una frase y devolver cuantes veces aparece en la frace */
+/* Dada una palabra, buscarla en una frase y devolver cuantes veces aparece en la frase */
 const frase  ="Soy una frace que tiene muchas palabras ,las palabras son inportantes. amo las palabras"
 const palabra= "palabras"
 function CountPalabras(frase,palabra) {

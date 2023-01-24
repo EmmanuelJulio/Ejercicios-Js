@@ -10,4 +10,4 @@ function escalera(numero){
     }
 
 }
-escalera(15)
+escalera(5)
